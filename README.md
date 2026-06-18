@@ -1,34 +1,151 @@
 <h1 align="center">Hi 👋, I'm Dinith Rathnayaka</h1>
-<h3 align="center">Passionate Builder and Tech Enthusiastic | Faculty of Information Technology University Of Moratuwa ,Sri Lanka| Tech Enthusiastic | Passionate for CS | Ai and Machine Learning Enthusiastic</h3>
 
-- 🔭 I’m currently working on [TrackNGo](https://github.com/dinithrathnayaka23/TrackNGo)
+<h3 align="center">
+Computer Science Undergraduate • University of Moratuwa 🇱🇰 <br/>
+Full Stack Developer • AI & Machine Learning Enthusiast • Tech Explorer
+</h3>
 
-- 🌱 I’m currently learning **Spring Boot,Next JS,Docker**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Spring+Boot+%7C+Next.js+%7C+React;AI+%26+Machine+Learning+Enthusiast;Building+Real+World+Software+Solutions" alt="Typing SVG" />
+</p>
 
-- 👨‍💻 All of my projects are available at [https://dinith-portfolio-chi.vercel.app/](https://dinith-portfolio-chi.vercel.app/)
+---
 
-- 📝 I regularly write articles on [https://medium.com/@dinithoshada2003](https://medium.com/@dinithoshada2003)
+## 🚀 About Me
 
-- 💬 Ask me about **Next JS,React JS,Spring Boot**
+- 🎓 Computer Science undergraduate at **University of Moratuwa, Sri Lanka**
+- 🔭 Currently working on **[TrackNGo](https://github.com/dinithrathnayaka23/TrackNGo)**
+- 🌱 Currently learning **Spring Boot, Next.js, Docker**
+- 👨‍💻 Portfolio: **[dinith-portfolio-chi.vercel.app](https://dinith-portfolio-chi.vercel.app/)**
+- 📝 Medium: **[medium.com/@dinithoshada2003](https://medium.com/@dinithoshada2003)**
+- 💬 Ask me about **Next.js, React.js, Spring Boot**
+- 📫 Reach me at **dinithoshada2003@gmail.com**
 
-- 📫 How to reach me **dinithoshada2003@gmail.com**
+---
 
-### Blogs posts
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/dinithrathnayaka" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://facebook.com/dinithrathnayaka" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" height="38" />
+  </a>
+  <a href="https://instagram.com/dinithrathnayaka" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+  <a href="https://medium.com/@dinithoshada2003" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" height="38" />
+  </a>
+  <a href="https://www.hackerrank.com/dinith_2003" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" height="38" />
+  </a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+## 🎨 Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,figma,framer" />
+</p>
+
+## ⚙️ Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,php" />
+</p>
+
+## 🗄️ Databases & Cloud
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase" />
+</p>
+
+## 🚀 DevOps & Developer Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vercel" />
+</p>
+
+## 🤖 AI, ML & Other Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,opencv,arduino,blender,c" />
+</p>
+
+---
+
+# 🌟 Featured Project
+
+## 🚍 TrackNGo
+
+**TrackNGo** is a smart university transportation platform focused on real-time bus tracking and better communication between passengers, drivers, and administrators.
+
+### Key Features
+
+- 🚌 Real-time bus tracking
+- 📍 Live GPS location updates
+- 🗺️ Map integration
+- 💬 Passenger-driver-admin communication
+- 🔔 Smart notifications
+- 📊 Admin dashboard
+- 📱 Mobile-first user experience
+
+🔗 Repository: **[TrackNGo](https://github.com/dinithrathnayaka23/TrackNGo)**
+
+---
+
+# 📝 Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dinithrathnayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinithrathnayaka" height="30" width="40" /></a>
-<a href="https://fb.com/dinithrathnayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dinithrathnayaka" height="30" width="40" /></a>
-<a href="https://instagram.com/dinithrathnayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dinithrathnayaka" height="30" width="40" /></a>
-<a href="https://medium.com/@dinithoshada2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dinithoshada2003" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dinith_2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dinith_2003" height="30" width="40" /></a>
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dinithrathnayaka23&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dinithrathnayaka23&theme=tokyonight&hide_border=true" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinithrathnayaka23&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinithrathnayaka23&show_icons=true&locale=en&layout=compact" alt="dinithrathnayaka23" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinithrathnayaka23&" alt="dinithrathnayaka23" /></p>
+# 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dinithrathnayaka23&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🏆 Achievements
+
+- 🥇 HackerRank Java Basic Certificate
+- 🥇 HackerRank Problem Solving Basic Certificate
+- 🚀 Building real-world software projects
+- 💡 Interested in AI, machine learning, full-stack development, and scalable systems
+
+---
+
+# 💭 Favorite Quote
+
+> “First, solve the problem. Then, write the code.”
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dinithrathnayaka23&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! Feel free to connect and collaborate.
+</p>
