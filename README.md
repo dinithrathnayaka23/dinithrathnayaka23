@@ -3,7 +3,7 @@
 
 <h3 align="center">
 Computer Science Undergraduate • University of Moratuwa 🇱🇰 <br/>
-Full Stack Developer • AI & Machine Learning Enthusiast • Tech Explorer
+Full Stack Developer • Research Enthusiast • Tech Explorer
 </h3>
 
 <p align="center">
