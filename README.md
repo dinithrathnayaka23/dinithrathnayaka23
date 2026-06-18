@@ -14,7 +14,7 @@ Full Stack Developer • Research Enthusiast • Tech Explorer
 
 ## 🚀 About Me
 
-- 🎓 Computer Science undergraduate at **University of Moratuwa, Sri Lanka**
+- 🎓 Information Technology undergraduate at **University of Moratuwa, Sri Lanka**
 - 🔭 Currently working on **[TrackNGo](https://github.com/dinithrathnayaka23/TrackNGo)**
 - 🌱 Currently learning **Spring Boot, Next.js, Docker**
 - 👨‍💻 Portfolio: **[dinith-portfolio-chi.vercel.app](https://dinith-portfolio-chi.vercel.app/)**
