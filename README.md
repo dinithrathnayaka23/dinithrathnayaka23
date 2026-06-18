@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dinith Rathnayaka</h1>
 
 <h3 align="center">
-Computer Science Undergraduate • University of Moratuwa 🇱🇰 <br/>
+IT Undergraduate • University of Moratuwa 🇱🇰 <br/>
 Full Stack Developer • Research Enthusiast • Tech Explorer
 </h3>
 
